@@ -1,7 +1,7 @@
 basic:
-    name: 'King, Effertz and Walter'
+    name: 'Schmeler, Abbott and Leuschke'
     environments:
-        production: 'https://stroman.com/'
+        production: 'https://balistreri.biz/deleniti-placeat-necessitatibus-magnam-deleniti-sed-et-suscipit'
         staging: ''
         development: ''
     breakpoints:
